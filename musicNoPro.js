@@ -292,12 +292,12 @@ const app = {
             }
            
         }
-        audio.onclick = function(){
-            _this 
-            audio.play = function(){
-                this
-            }
-        }
+        // audio.onclick = function(){
+        //     _this 
+        //     audio.play = function(){
+        //         this
+        //     }
+        // }
         //Xử lí next song khi kết thúc bài hát;
         audio.onended = function(){
             //Cách 1:
