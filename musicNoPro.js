@@ -292,7 +292,7 @@ const app = {
             }
            
         }
-        a.onclick = function(){
+        audio.onclick = function(){
             _this 
             audio.play = function(){
                 this
